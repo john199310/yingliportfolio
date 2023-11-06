@@ -147,7 +147,7 @@
               , l = void 0 === t ? r.WL : t
               , u = e.keyword
               , d = e.image
-              , c = void 0 === d ? "/Me/myportfolio/extras/logo.png" : d
+              , c = void 0 === d ? "myportfolio/extras/logo.png" : d
               , p = (0,
             i.useRouter)()
               , h = "".concat(n, " | WEBDRAGON")
@@ -160,7 +160,7 @@
                 }), (0,
                 a.jsx)("meta", {
                     name: "keywords",
-                    content: "".concat(u, ", Ying Li, WEBDRAGON, WEBDRAGON, Tomas.me")
+                    content: "".concat(u, ", Ying Li, WEBDRAGON, WEBDRAGON, Ying.me")
                 }), (0,
                 a.jsx)("meta", {
                     name: "description",
@@ -396,7 +396,7 @@
         }
           , h = n(1942)
           , m = n(3895)
-          , g = JSON.parse('[{"title":"Tomas WEBDRAGON","date":"2021-10-31T00:00:00.000Z","tags":["Portfolio","Ying Li"]}]');
+          , g = JSON.parse('[{"title":"YingLi WEBDRAGON","date":"2021-10-31T00:00:00.000Z","tags":["Portfolio","Ying Li"]}]');
         (0,
         m.Z)(g);
         var y = n(9438)
@@ -492,7 +492,7 @@
                         className: "text-center py-7",
                         children: (0,
                         a.jsx)(s(), {
-                            href: "/Me/project.html/",
+                            href: "project.html/",
                             passHref: !0,
                             children: (0,
                             a.jsxs)("a", {
