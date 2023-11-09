@@ -113,7 +113,7 @@
             , m = void 0 === d ? "/extras/logo.png" : d
             , x = (0,
           i.useRouter)()
-            , p = "".concat(r, " | RoyalBosS")
+            , p = "".concat(r, " | WEBDRAGON")
             , h = Array.isArray(m) ? m[0] : m;
           return (0,
           n.jsxs)(a(), {
@@ -123,7 +123,7 @@
               }), (0,
               n.jsx)("meta", {
                   name: "keywords",
-                  content: "".concat(l, ", ayush munot, royalboss, RoyalBosS, royalboss.me")
+                  content: "".concat(l, ", ayush munot, WEBDRAGON, WEBDRAGON, WEBDRAGON.me")
               }), (0,
               n.jsx)("meta", {
                   name: "description",
@@ -148,20 +148,20 @@
                   return (0,
                   n.jsx)("meta", {
                       property: "og:image",
-                      content: "https://royalboss.me".concat(t)
-                  }, "https://royalboss.me".concat(t))
+                      content: "https://WEBDRAGON.me".concat(t)
+                  }, "https://WEBDRAGON.me".concat(t))
               }) : (0,
               n.jsx)("meta", {
                   property: "og:image",
-                  content: "https://royalboss.me".concat(m)
+                  content: "https://WEBDRAGON.me".concat(m)
               }), (0,
               n.jsx)("meta", {
                   property: "og:image:secure_url",
-                  content: "https://royalboss.me".concat(h)
+                  content: "https://WEBDRAGON.me".concat(h)
               }), (0,
               n.jsx)("meta", {
                   property: "og:site_name",
-                  content: "RoyalBosS"
+                  content: "WEBDRAGON"
               }), (0,
               n.jsx)("meta", {
                   property: "og:locale",
@@ -181,7 +181,7 @@
               }), (0,
               n.jsx)("meta", {
                   name: "twitter:image",
-                  content: "https://royalboss.me".concat(h)
+                  content: "https://WEBDRAGON.me".concat(h)
               }), (0,
               n.jsx)("meta", {
                   itemProp: "name",
@@ -189,7 +189,7 @@
               }), (0,
               n.jsx)("meta", {
                   itemProp: "image",
-                  content: "https://royalboss.me".concat(h)
+                  content: "https://WEBDRAGON.me".concat(h)
               })]
           })
       }
